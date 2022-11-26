@@ -51,4 +51,4 @@ USER chrome
 
 RUN npm install
 
-ENTRYPOINT ["node", "index.js"]
+ENTRYPOINT ["node", "src/index.js"]
